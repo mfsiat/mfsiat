@@ -17,11 +17,7 @@
 
 ### Platform:
 
-<img src="aws.svg"
-     alt="aws"
-     style="float: left; margin-right: 10px;" />
-
----
+## ![](aws.svg)
 
 ### 📕 Stackoverflow Posts
 
