@@ -17,7 +17,7 @@
 
 ### Platform:
 
-## ![](aws.svg)
+![](aws.svg)
 
 ### 📕 Stackoverflow Posts
 
