@@ -17,7 +17,7 @@
 
 ### Platform:
 
-<img src="PikPng.com_aws-logo-png_1678403.png"
+<img src="aws.svg"
      alt="aws"
      style="float: left; margin-right: 10px;" />
 
