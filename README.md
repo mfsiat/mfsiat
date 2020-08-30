@@ -21,9 +21,6 @@
      alt="aws"
      style="float: left; margin-right: 10px;" />
 
-<br />
-<br />
-
 ---
 
 ### 📕 Stackoverflow Posts
