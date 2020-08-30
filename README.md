@@ -15,11 +15,11 @@
 
 <br />
 
-### Platform:
+<!-- ### Platform:
 
-![](aws.svg)
+![](aws.svg) -->
 
-### 📕 Stackoverflow Posts
+### Stackoverflow Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
