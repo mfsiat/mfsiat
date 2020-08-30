@@ -17,7 +17,6 @@
 
 ### Platform:
 
-![](PikPng.com_aws-logo-png_1678403.png)
 <img src="PikPng.com_aws-logo-png_1678403.png"
      alt="aws"
      style="float: left; margin-right: 10px;" />
@@ -34,12 +33,9 @@
 
 ---
 
-<details>
-  <summary>:zap: Github Stats</summary>
+![mfsiat's github stats](https://github-readme-stats.vercel.app/api?username=mfsiat&theme=vue&show_icons=true)
 
-  <img align="left" alt="mfsiat's Github Stats" src="https://github-readme-stats.mfsiat.vercel.app/api?username=mfsiat&show_icons=true&hide_border=true" />
-
-</details>
+---
 
 [website]: https://mfsiat.github.io/
 [twitter]: https://twitter.com/siatislam
