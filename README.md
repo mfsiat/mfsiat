@@ -22,7 +22,7 @@
 ### Stackoverflow Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [GitLab on aws lightsail 512 mb ram](https://stackoverflow.com/questions/64333612/gitlab-on-aws-lightsail-512-mb-ram)
+- [GitLab on aws lightsail 512 mb ram [closed]](https://stackoverflow.com/questions/64333612/gitlab-on-aws-lightsail-512-mb-ram)
 - [Answer by MD Nasirul Islam for how to enable .htaccess in AWS Lightsail LAMP module](https://stackoverflow.com/questions/60281420/how-to-enable-htaccess-in-aws-lightsail-lamp-module/64300735#64300735)
 - [Answer by MD Nasirul Islam for Cannot read property 'Parser' of undefined promise error](https://stackoverflow.com/questions/64183286/cannot-read-property-parser-of-undefined-promise-error/64193345#64193345)
 - [Cannot read property 'Parser' of undefined promise error](https://stackoverflow.com/questions/64183286/cannot-read-property-parser-of-undefined-promise-error)
