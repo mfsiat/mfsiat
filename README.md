@@ -23,10 +23,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Answer by MD Nasirul Islam for Artisan migrate could not find driver](https://stackoverflow.com/questions/46745365/artisan-migrate-could-not-find-driver/64427014#64427014)
-- [GitLab on aws lightsail 512 mb ram [closed]](https://stackoverflow.com/questions/64333612/gitlab-on-aws-lightsail-512-mb-ram)
 - [Answer by MD Nasirul Islam for how to enable .htaccess in AWS Lightsail LAMP module](https://stackoverflow.com/questions/60281420/how-to-enable-htaccess-in-aws-lightsail-lamp-module/64300735#64300735)
 - [Answer by MD Nasirul Islam for Cannot read property 'Parser' of undefined promise error](https://stackoverflow.com/questions/64183286/cannot-read-property-parser-of-undefined-promise-error/64193345#64193345)
 - [Cannot read property 'Parser' of undefined promise error](https://stackoverflow.com/questions/64183286/cannot-read-property-parser-of-undefined-promise-error)
+- [XML response gets blocked by CORS on angular 10](https://stackoverflow.com/questions/64136444/xml-response-gets-blocked-by-cors-on-angular-10)
 <!-- BLOG-POST-LIST:END -->
 
 ---
