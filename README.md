@@ -22,11 +22,11 @@
 ### Stackoverflow Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Answer by MD Nasirul Islam for Dump all documents of Elasticsearch](https://stackoverflow.com/questions/19243074/dump-all-documents-of-elasticsearch/64831211#64831211)
 - [How to index data on aws Elasticsearch with nodejs elasticsearch package](https://stackoverflow.com/questions/64708895/how-to-index-data-on-aws-elasticsearch-with-nodejs-elasticsearch-package)
 - [Answer by MD Nasirul Islam for Artisan migrate could not find driver](https://stackoverflow.com/questions/46745365/artisan-migrate-could-not-find-driver/64427014#64427014)
 - [Answer by MD Nasirul Islam for how to enable .htaccess in AWS Lightsail LAMP module](https://stackoverflow.com/questions/60281420/how-to-enable-htaccess-in-aws-lightsail-lamp-module/64300735#64300735)
 - [Answer by MD Nasirul Islam for Cannot read property 'Parser' of undefined promise error](https://stackoverflow.com/questions/64183286/cannot-read-property-parser-of-undefined-promise-error/64193345#64193345)
-- [Cannot read property 'Parser' of undefined promise error](https://stackoverflow.com/questions/64183286/cannot-read-property-parser-of-undefined-promise-error)
 <!-- BLOG-POST-LIST:END -->
 
 ---
