@@ -4,10 +4,6 @@
 
 ## Procrastinator
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="mfsiat Spotify Playing" width="350" />](https://open.spotify.com/user/yar0q4ayr73cdw0shmqcdg3nw?si=NPxSbD5VR-WzjdL982wTRg)
-
 ### Connect with me:
 
 [<img align="left" alt="nasirul-islam-4708ab153 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -23,10 +19,6 @@
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
----
-
-![mfsiat's github stats](https://github-readme-stats.vercel.app/api?username=mfsiat&theme=vue&show_icons=true)
 
 ---
 
