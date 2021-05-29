@@ -18,7 +18,7 @@
 ### Stackoverflow Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Only redirect from non-www to www not working, www and non-www both are working on nginx](https://stackoverflow.com/questions/67749512/only-redirect-from-non-www-to-www-not-working-www-and-non-www-both-are-working)
+- [Only redirect from non-www to www not working, www and non-www both are working on nginx [duplicate]](https://stackoverflow.com/questions/67749512/only-redirect-from-non-www-to-www-not-working-www-and-non-www-both-are-working)
 - [Answer by MD Nasirul Islam for How can I solve 403:Forbidden whilst using a docker container?](https://stackoverflow.com/questions/50513048/how-can-i-solve-403forbidden-whilst-using-a-docker-container/67478688#67478688)
 - [Limit field length value in Elasticsearch](https://stackoverflow.com/questions/66882906/limit-field-length-value-in-elasticsearch)
 - [Answer by MD Nasirul Islam for Django application mod_wsgi error with apache](https://stackoverflow.com/questions/65104995/django-application-mod-wsgi-error-with-apache/66865248#66865248)
