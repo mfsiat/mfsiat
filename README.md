@@ -18,11 +18,11 @@
 ### Stackoverflow Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cant implement CI/CD with gitlab](https://stackoverflow.com/questions/67957943/cant-implement-ci-cd-with-gitlab)
 - [Only redirect from non-www to www not working, www and non-www both are working on nginx [duplicate]](https://stackoverflow.com/questions/67749512/only-redirect-from-non-www-to-www-not-working-www-and-non-www-both-are-working)
 - [Answer by MD Nasirul Islam for How can I solve 403:Forbidden whilst using a docker container?](https://stackoverflow.com/questions/50513048/how-can-i-solve-403forbidden-whilst-using-a-docker-container/67478688#67478688)
 - [Limit field length value in Elasticsearch](https://stackoverflow.com/questions/66882906/limit-field-length-value-in-elasticsearch)
 - [Answer by MD Nasirul Islam for Django application mod_wsgi error with apache](https://stackoverflow.com/questions/65104995/django-application-mod-wsgi-error-with-apache/66865248#66865248)
-- [Elaticsearch Query search without adding space on a word where word has space in it](https://stackoverflow.com/questions/66780901/elaticsearch-query-search-without-adding-space-on-a-word-where-word-has-space-in)
 <!-- BLOG-POST-LIST:END -->
 
 ---
