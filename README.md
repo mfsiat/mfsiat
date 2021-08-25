@@ -18,11 +18,11 @@
 ### Stackoverflow Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Answer by MD Nasirul Islam for Easiest Way to install Zabbix in amazon linux 2 ami](https://stackoverflow.com/questions/68901775/easiest-way-to-install-zabbix-in-amazon-linux-2-ami/68924169#68924169)
 - [Easiest Way to install Zabbix in amazon linux 2 ami](https://stackoverflow.com/questions/68901775/easiest-way-to-install-zabbix-in-amazon-linux-2-ami)
 - [Answer by MD Nasirul Islam for Elasticsearch Scroll](https://stackoverflow.com/questions/46604207/elasticsearch-scroll/68781972#68781972)
 - [Cant implement CI/CD with gitlab](https://stackoverflow.com/questions/67957943/cant-implement-ci-cd-with-gitlab)
 - [Only redirect from non-www to www not working, www and non-www both are working on nginx [duplicate]](https://stackoverflow.com/questions/67749512/only-redirect-from-non-www-to-www-not-working-www-and-non-www-both-are-working)
-- [Answer by MD Nasirul Islam for How can I solve 403:Forbidden whilst using a docker container?](https://stackoverflow.com/questions/50513048/how-can-i-solve-403forbidden-whilst-using-a-docker-container/67478688#67478688)
 <!-- BLOG-POST-LIST:END -->
 
 ---
