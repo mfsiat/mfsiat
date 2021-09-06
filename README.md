@@ -18,11 +18,11 @@
 ### Stackoverflow Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Answer by MD Nasirul Islam for sudo: docker-compose: command not found](https://stackoverflow.com/questions/38775954/sudo-docker-compose-command-not-found/69078658#69078658)
 - [Answer by MD Nasirul Islam for Easiest Way to install Zabbix in amazon linux 2 ami](https://stackoverflow.com/questions/68901775/easiest-way-to-install-zabbix-in-amazon-linux-2-ami/68924169#68924169)
 - [Easiest Way to install Zabbix in amazon linux 2 ami](https://stackoverflow.com/questions/68901775/easiest-way-to-install-zabbix-in-amazon-linux-2-ami)
 - [Answer by MD Nasirul Islam for Elasticsearch Scroll](https://stackoverflow.com/questions/46604207/elasticsearch-scroll/68781972#68781972)
 - [Cant implement CI/CD with gitlab](https://stackoverflow.com/questions/67957943/cant-implement-ci-cd-with-gitlab)
-- [Only redirect from non-www to www not working, www and non-www both are working on nginx [duplicate]](https://stackoverflow.com/questions/67749512/only-redirect-from-non-www-to-www-not-working-www-and-non-www-both-are-working)
 <!-- BLOG-POST-LIST:END -->
 
 ---
