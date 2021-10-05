@@ -1,4 +1,4 @@
-### DevOps - aka [mfsiat][website] 👋 [<img align="left" alt="nasirul-islam-4708ab153 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### DevOps - aka [mfsiat][website] 👋 
 
 [![Website](https://img.shields.io/website?label=mfsiat.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mfsiat.github.io/)
 
@@ -21,5 +21,4 @@
 ---
 
 [website]: https://mfsiat.github.io/
-[twitter]: https://twitter.com/siatislam
 [linkedin]: https://linkedin.com/in/nasirul-islam-4708ab153
