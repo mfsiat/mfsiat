@@ -1,8 +1,6 @@
-### Hi there, I'm Siat - aka [mfsiat][website] 👋
+### DevOps - aka [mfsiat][website] 👋
 
 [![Website](https://img.shields.io/website?label=mfsiat.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mfsiat.github.io/)
-
-## Procrastinator
 
 ### Connect with me:
 
